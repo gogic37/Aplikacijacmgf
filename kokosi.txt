@@ -4,3 +4,6 @@ email:josip@gmail.com
 password:lokot
 email:drazen@gmail.com
 password:zvonko
+email:ivan@gmail.com  
+password:56789
+
