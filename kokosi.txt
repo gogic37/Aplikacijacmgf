@@ -10,6 +10,9 @@ fraza:ivan
 password:56789
 fraza:dalibor
 password:dali39
-//Jovanovic srecko
+// Jovanovic srecko
 fraza:jovanovic
 password:duste23
+// Miroslav Okoloic
+fraza:okoloicmiro
+password:oko35li
