@@ -1,12 +1,12 @@
 // This is all fake and i use this for testing my app
 
-email:gogo@gmail.com 
+fraza:gogo
 password:1234
-email:josip@gmail.com 
+fraza:josip
 password:lokot
-email:drazen@gmail.com
+fraza:drazen
 password:zvonko
-email:ivan@gmail.com  
+fraza:ivan
 password:56789
-email:dalibor@gmail.com
+fraza:dalibor
 password:dali39
