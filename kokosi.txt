@@ -1,3 +1,5 @@
+// This is all fake and i use this for testing my app
+
 email:gogo@gmail.com 
 password:1234
 email:josip@gmail.com 
