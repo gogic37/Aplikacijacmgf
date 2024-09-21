@@ -1,18 +1,6 @@
 // This is all fake and i use this for testing my app
 
+// Goran Vrhovec
 fraza:gogo
 password:1234
-fraza:josip
-password:lokot
-fraza:drazen
-password:zvonko
-fraza:ivan
-password:56789
-fraza:dalibor
-password:dali39
-// Jovanovic srecko
-fraza:jovanovic
-password:duste23
-// Miroslav Okoloic
-fraza:okoloicmiro
-password:oko35li
+
