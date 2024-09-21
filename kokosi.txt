@@ -10,3 +10,6 @@ fraza:ivan
 password:56789
 fraza:dalibor
 password:dali39
+//Jovanovic srecko
+fraza:jovanovic
+password:duste23
