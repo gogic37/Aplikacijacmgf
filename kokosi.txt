@@ -9,3 +9,6 @@ password:2323
 // joksimovic miroslav
 fraza:joko
 password:1212
+// Poklepovic Milan
+fraza:poko
+password:2222
