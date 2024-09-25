@@ -4,9 +4,6 @@
 fraza:gogo
 password:1234
 // ivanovic Milan
-fraza:ivanov
-password:4321
-// Milosevic zoran
-fraza:milo12
-password:1001
+fraza:crno
+password:1111
 
