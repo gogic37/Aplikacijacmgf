@@ -3,7 +3,7 @@
 // Goran Vrhovec
 fraza:gogo
 password:1234
-// ivanovic Milan
-fraza:crno
-password:1111
+// Dizdarevic joksim
+fraza:joko
+password:2323
 
