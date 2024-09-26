@@ -12,3 +12,6 @@ password:1212
 // Poklepovic Milan
 fraza:poko
 password:2222
+// Tomek
+fraza:tomo
+password:5555
