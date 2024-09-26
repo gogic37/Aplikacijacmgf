@@ -3,15 +3,6 @@
 // Goran Vrhovec
 fraza:gogo
 password:1234
-// Dizdarevic joksim
-fraza:joko
-password:2323
-// joksimovic miroslav
-fraza:joko
-password:1212
-// Poklepovic Milan
-fraza:poko
-password:2222
 // Tomek
 fraza:tomo
 password:5555
